@@ -1,0 +1,17 @@
+
+# Bot scratch verification files
+test.js
+test_*.ts
+test_*.js
+test.cjs
+fix_*.cjs
+fix_*.php
+patch_*.py
+patch_*.sh
+update_*.php
+scratch_*
+*.scratch
+*.diff
+*.patch
+patch.diff
+*.timestamp-*.mjs
